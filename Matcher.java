@@ -1,3 +1,8 @@
+/**
+ * Matcher Class
+ * @author Yun Park
+ * @copyright September 2013
+ */
 public class Matcher {
 	
 	Group[] groups;

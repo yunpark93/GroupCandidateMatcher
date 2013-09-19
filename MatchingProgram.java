@@ -6,6 +6,11 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
 
+/**
+ * Matching Program Class
+ * @author Yun Park
+ * @copyright September 2013
+ */
 public class MatchingProgram {
 	
 	static int ROUNDS_PER_FINALIZATION = 0;

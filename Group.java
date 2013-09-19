@@ -1,4 +1,8 @@
-
+/**
+ * Group Class
+ * @author Yun Park
+ * @copyright September 2013
+ */
 public class Group {
 	
 	// Name of the group

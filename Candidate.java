@@ -1,4 +1,8 @@
-
+/**
+ * Candidate Class
+ * @author Yun Park
+ * @copyright September 2013
+ */
 public class Candidate {
 
 	// Name of the candidate
