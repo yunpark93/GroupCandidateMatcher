@@ -1,1 +1,5 @@
+# Class Files
 *.class
+
+# Data Directory
+data/
